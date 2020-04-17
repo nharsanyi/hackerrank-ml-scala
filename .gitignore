@@ -1,0 +1,7 @@
+.idea/
+hackerrank-ml.iml
+out/
+project/
+target/
+.DS_Store
+src/.DS_Store
